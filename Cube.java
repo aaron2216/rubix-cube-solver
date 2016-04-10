@@ -33,7 +33,7 @@ public class Cube {
 			if (i == 4) {
 				up[i] = 1;// 1 is white
 				down[i] = 6;// 6 is yellow
-				right[i] = 3;// 3i s orange
+				right[i] = 3;// 3 is orange
 				left[i] = 5;// 5 is red
 				back[i] = 4;// 4 is green
 				front[i] = 2; // 2 is blue
